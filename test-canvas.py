@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 options = Options()
-options.page_load_strategy = 'none'
+options.page_load_strategy = 'eager'
 
 driver = webdriver.Firefox(options=Options)
 

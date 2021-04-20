@@ -210,3 +210,4 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 1618719113833	geckodriver	INFO	Listening on 127.0.0.1:49754
 1618719120809	geckodriver	INFO	Listening on 127.0.0.1:49759
+1618767886830	geckodriver	INFO	Listening on 127.0.0.1:7926
