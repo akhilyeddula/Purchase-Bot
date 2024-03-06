@@ -1,2 +1,2 @@
 # Purchase-Bot
-This bot will be created using Node.js and Puppeteer.
+This bot was created using Node.js and Puppeteer. The purpose of this bot was to be able to continue monitoring a BestBuy product, specifically GPU's, and once in-stock, it will automatically check-out the product. This project was made during the silicon shortage in 2021 to help others combat the myriad of bots that were purchasing many of these products for resale or crypto mining.
